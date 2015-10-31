@@ -1,0 +1,6 @@
+c:\users\kamal\documents\visual studio 2015\Projects\SoundexHashing\SoundexHashing\bin\Debug\SoundexHashing.exe.config
+c:\users\kamal\documents\visual studio 2015\Projects\SoundexHashing\SoundexHashing\bin\Debug\SoundexHashing.exe
+c:\users\kamal\documents\visual studio 2015\Projects\SoundexHashing\SoundexHashing\bin\Debug\SoundexHashing.pdb
+c:\users\kamal\documents\visual studio 2015\Projects\SoundexHashing\SoundexHashing\obj\Debug\SoundexHashing.csprojResolveAssemblyReference.cache
+c:\users\kamal\documents\visual studio 2015\Projects\SoundexHashing\SoundexHashing\obj\Debug\SoundexHashing.exe
+c:\users\kamal\documents\visual studio 2015\Projects\SoundexHashing\SoundexHashing\obj\Debug\SoundexHashing.pdb
